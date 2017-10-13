@@ -1,2 +1,2 @@
 // JavaScript Document
-document.write("hannan");
+document.write("hannan khan");
